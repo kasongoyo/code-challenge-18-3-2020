@@ -1,0 +1,4 @@
+export const REMOVE_USER_ACTION = 'USER:REMOVE';
+export const SAVE_USER_ACTION = 'USER:SAVE';
+export const EDIT_USER_ACTION = 'USER:EDIT';
+export const CLOSE_USER_FORM = 'USER:CLOSE_USER_FORM';
